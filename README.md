@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 **silvy8a/silvy8a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Passionate about languages and 🧩 and always interested in learning. 
+
+Diving into the world of Data Science and Machine Learning and eager to apply my knowledge to new challenges.
